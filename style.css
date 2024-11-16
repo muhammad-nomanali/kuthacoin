@@ -18,6 +18,7 @@ padding-top: 100px;
     background-position: center !important;
     background-size: fill !important;
     background-repeat: repeat;
+    overflow-x: hidden;
    
 }
 
@@ -631,6 +632,7 @@ body{
     padding-top: 80px;
     background-color: #0e0e0e;
     color: white;
+ 
   }
   .tokenomics-section h2 {
     text-align: center;
@@ -673,12 +675,11 @@ body{
   .tokenomics-img{
     width: 30%;
     padding-top: 50px;
-    margin-left: 450px;
-  
+    margin: 0 auto;
   }
   .tokenomics-img img{
     width: 100%;
-
+   
 
   }
   .btn-card{
